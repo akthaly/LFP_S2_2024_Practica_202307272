@@ -29,7 +29,7 @@ PROGRAM prueba_inventario
             ! Procesar movimientos
             print *, "Cargando Instrucciones de movimientos..."
             call sleep(1)
-            call procesar_movimientos("instrucciones_m.mov")
+            call procesar_movimientos("instrucciones.mov")
         case (3)
             ! Generar informe
             print *, "Creando Informe de inventario..."
