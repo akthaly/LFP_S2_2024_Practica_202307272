@@ -17,7 +17,7 @@ PROGRAM prueba_inventario
         print *, "4. Salir"
         print *, ""
         print *, "Ingrese una opcion: "
-        read *, opcion
+        read *,  opcion
 
         select case (opcion)
         case (1)
@@ -36,6 +36,8 @@ PROGRAM prueba_inventario
             call sleep(1)
             call generar_informe()
         case (4)
+            print *, "Saliendo..."
+            call sleep(1)
             exit
         case default
             print *, 'Opción no válida.'
