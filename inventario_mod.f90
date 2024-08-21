@@ -1,6 +1,3 @@
-!-----------------------------------------
-! Módulo para manejar el inventario
-!-----------------------------------------
 module inventario_mod
 
     implicit none

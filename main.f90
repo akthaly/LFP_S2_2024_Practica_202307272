@@ -1,4 +1,4 @@
-PROGRAM prueba_inventario
+PROGRAM main
     USE inventario_mod
     implicit none
 
@@ -44,4 +44,4 @@ PROGRAM prueba_inventario
         end select
     end do
 
-END PROGRAM prueba_inventario
+END PROGRAM main
