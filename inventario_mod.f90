@@ -241,11 +241,11 @@ contains
         ! Escribimos cada equipo en el informe
         do i = 1, num_equipos
             valor_total = inventario(i)%cantidad * inventario(i)%precio_unitario
-            write(unit_number, '(A15, 2X, I10, 2X, F10.2, 2X, F12.2, 2X, A15)') &
+            write(unit_number, '(A15, 2X, I8, 2X, A1, F8.2, 2X, A1, F12.2, 2X, A15)') &
                 trim(inventario(i)%nombre), &
                 inventario(i)%cantidad, &
-                inventario(i)%precio_unitario, &
-                valor_total, &
+                'Q', inventario(i)%precio_unitario, &
+                'Q', valor_total, &
                 trim(inventario(i)%ubicacion)
         end do
     

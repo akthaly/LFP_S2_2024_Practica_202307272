@@ -2,29 +2,29 @@ Informe de Inventario:
 ---------------------------------------------------------------------------
          Equipo  Cantidad   Precio Unitario       Valor Total     Ubicación
 ---------------------------------------------------------------------------
-        Equipo1         152     2976.08     452364.19          BodegaY
-        Equipo1         165     4772.31     787431.19          BodegaZ
-        Equipo4          63     3747.14     236069.81          BodegaX
-        Equipo5         199     2311.81     460050.19          BodegaX
-        Equipo6          56     4329.62     242458.72          BodegaY
-        Equipo7         175      381.26      66720.50          BodegaZ
-        Equipo9         154      518.65      79872.10          BodegaX
-       Equipo10         168     2953.85     496246.81          BodegaZ
-       Equipo11         200     2909.88     581976.00          BodegaW
-       Equipo12         179     3274.22     586085.38          BodegaW
-       Equipo13         152       79.51      12085.52          BodegaW
-       Equipo14          61     2927.38     178570.17          BodegaZ
-       Equipo15         114     4839.75     551731.50          BodegaX
-       Equipo17         103     4113.68     423709.06          BodegaZ
-       Equipo18         113     4054.15     458118.94          BodegaX
-       Equipo19          87     1563.08     135987.95          BodegaW
-       Equipo20         181     2491.75     451006.75          BodegaY
-       Equipo22         140     3035.39     424954.59          BodegaX
-       Equipo23         171     4652.91     795647.62          BodegaX
-       Equipo24          84     2487.42     208943.28          BodegaW
-       Equipo26          81     1269.98     102868.38          BodegaX
-       Equipo27         158      168.18      26572.44          BodegaY
-       Equipo28         160     4567.50     730800.00          BodegaZ
-       Equipo29         187     4931.10     922115.69          BodegaY
-       Equipo30         143     1884.28     269452.03          BodegaW
+        Equipo1       152  Q 2976.08  Q   452364.19          BodegaY
+        Equipo1       165  Q 4772.31  Q   787431.19          BodegaZ
+        Equipo4        63  Q 3747.14  Q   236069.81          BodegaX
+        Equipo5       199  Q 2311.81  Q   460050.19          BodegaX
+        Equipo6        56  Q 4329.62  Q   242458.72          BodegaY
+        Equipo7       175  Q  381.26  Q    66720.50          BodegaZ
+        Equipo9       154  Q  518.65  Q    79872.10          BodegaX
+       Equipo10       168  Q 2953.85  Q   496246.81          BodegaZ
+       Equipo11       200  Q 2909.88  Q   581976.00          BodegaW
+       Equipo12       179  Q 3274.22  Q   586085.38          BodegaW
+       Equipo13       152  Q   79.51  Q    12085.52          BodegaW
+       Equipo14        61  Q 2927.38  Q   178570.17          BodegaZ
+       Equipo15       114  Q 4839.75  Q   551731.50          BodegaX
+       Equipo17       103  Q 4113.68  Q   423709.06          BodegaZ
+       Equipo18       113  Q 4054.15  Q   458118.94          BodegaX
+       Equipo19        87  Q 1563.08  Q   135987.95          BodegaW
+       Equipo20       181  Q 2491.75  Q   451006.75          BodegaY
+       Equipo22       140  Q 3035.39  Q   424954.59          BodegaX
+       Equipo23       171  Q 4652.91  Q   795647.62          BodegaX
+       Equipo24        84  Q 2487.42  Q   208943.28          BodegaW
+       Equipo26        81  Q 1269.98  Q   102868.38          BodegaX
+       Equipo27       158  Q  168.18  Q    26572.44          BodegaY
+       Equipo28       160  Q 4567.50  Q   730800.00          BodegaZ
+       Equipo29       187  Q 4931.10  Q   922115.69          BodegaY
+       Equipo30       143  Q 1884.28  Q   269452.03          BodegaW
 ---------------------------------------------------------------------------
